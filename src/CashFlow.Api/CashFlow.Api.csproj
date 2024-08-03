@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.3" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CashFlow.Application\CashFlow.Application.csproj" />
+      <ProjectReference Include="..\CashFlow.Communication\CashFlow.Communication.csproj" />
+      <ProjectReference Include="..\CashFlow.Exception\CashFlow.Exception.csproj" />
+      <ProjectReference Include="..\CashFlow.Infrastructure\CashFlow.Infrastructure.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Filters\**" />
+      <Compile Remove="Middlewares\**" />
+      <Compile Remove="Controllers\WeatherForecastController.cs" />
+      <Compile Remove="WeatherForecast.cs" />
+      <Compile Remove="Controllers\ExpensesController.cs.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Filters\**" />
+      <EmbeddedResource Remove="Middlewares\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="Filters\**" />
+      <Content Remove="Middlewares\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Filters\**" />
+      <None Remove="Middlewares\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers\" />
+    </ItemGroup>
+
+</Project>

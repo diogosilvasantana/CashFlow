@@ -1,0 +1,11 @@
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.deps.json
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.dll
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.pdb
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfoInputs.cache
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfo.cs
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.CoreCompileInputs.cache
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.dll
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/refint/CashFlow.Domain.dll
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.pdb
+/Users/proartstudio/Desktop/cursos/rocketseat/C#/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/ref/CashFlow.Domain.dll
